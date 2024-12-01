@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "parcel": "^2.13.2",
+    "three": "^0.171.0"
+  },
+  "scripts": {
+    "build": "parcel ./src/index.html"
+  }
+}
