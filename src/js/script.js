@@ -6,7 +6,7 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 
 document.body.appendChild(renderer.domElement);
 
-const scene = new THREE.scene();
+const scene = new THREE.Scene();
 
 const camera = new THREE.PerspectiveCamera(
     75,
